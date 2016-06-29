@@ -1,0 +1,4 @@
+clientlist
+clid=1 cid=9 client_database_id=21 client_nickname=OBERNUSS client_type=0|clid=3 cid=55 client_database_id=10 client_nickname=Matze client_type=0|clid=4 cid=49 client_database_id=8 client_nickname=David client_type=0|clid=6 cid=3 client_database_id=5 client_nickname=Knoli123 client_type=0|clid=13 cid=1 client_database_id=1 client_nickname=serveradmin\sfrom\s178.25.228.98:62262 client_type=1
+error id=0 msg=ok
+
